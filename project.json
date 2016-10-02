@@ -21,7 +21,10 @@
     "Microsoft.Extensions.Logging.Console": "1.0.0",
     "Microsoft.Extensions.Logging.Debug": "1.0.0",
     "Microsoft.Extensions.Options.ConfigurationExtensions": "1.0.0",
-    "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0"
+    "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0",
+    "MySql.Data.EntityFrameworkCore":"7.0.5-ir21",
+    "MediatR": "2.1.0-beta-19",
+    "Autofac.Extensions.DependencyInjection":"4.0.0"
   },
 
   "tools": {
